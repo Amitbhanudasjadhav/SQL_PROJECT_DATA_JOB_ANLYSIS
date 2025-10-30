@@ -19,3 +19,15 @@ WHERE job_postings_fact.job_title_short = 'Data Analyst'
 GROUP BY Skills
 ORDER BY Demand_count DESC
 LIMIT 5;
+
+/*
+Most In-Demand Skills for Data Analysts (2023)
+
+SQL leads by a large margin with over 92,000 job mentions, making it the most essential skill for data analysts.
+
+Excel remains highly relevant, ranking second — showing that foundational analytical tools are still widely used in business environments.
+
+Python continues to grow in demand, reflecting the industry’s shift toward automation, data processing, and advanced analytics.
+
+Tableau and Power BI highlight the importance of data visualization and storytelling, crucial for communicating insights effectively.
+*/

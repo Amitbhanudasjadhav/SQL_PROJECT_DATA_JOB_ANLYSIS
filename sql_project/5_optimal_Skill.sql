@@ -1,5 +1,5 @@
 /*
-        Question- What are the Optimal Skill to have or aquire i.e( High demand and High paying)
+        Question- What are the Optimal Skill to have or aquire i.e( High demand and High paying)?
             - Identify skills in high demand and associate with high average salaries for data analyst roles.
             - concentrate on remote roles.
             - Why?
